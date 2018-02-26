@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bird\\Downloads\\react-native\\testReact\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bird\\.android\\build-cache\\465b069ff835424c343994411724934993bc3c6e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

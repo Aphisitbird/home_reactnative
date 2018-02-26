@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bird\.android\build-cache\884bc789c91849cdbaeaeb023fc3806fcab6e45b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\bird\Downloads\react-native\testReact\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e23d2aacc8b0e933fa3dd2fd2cfe1644853173c6.jar" />
+    </item>
+
+</items>

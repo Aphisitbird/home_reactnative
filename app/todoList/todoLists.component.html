@@ -1,0 +1,19 @@
+<StackLayout width="280"> 
+    <Label text="ใส่ค่าที่ต้องการคำนวณภาษี"></Label>
+    <TextField [(ngModel)]="oneWay" keyboardType="number"></TextField>
+    <Label text="ใส่ภาษี (%)"></Label>
+    <TextField [(ngModel)]="twoWay" keyboardType="number"></TextField>
+
+    <!--<Label text="twoWay"></Label>
+    <Label [text]="twoWay"></Label>-->
+    <button text="คำนวณ" (tap)="add()" width="90"></button>
+    <!--<ListView [items]="todos">
+        <ng-template let-todo="item">
+            <Label [text]="todo"></Label>
+        </ng-template>
+    </ListView>-->
+    <Label text="ผลลัพท์"></Label>
+    <StackLayout *ngFor="let todo of todos">
+        <label [text]="todo"></label>
+    </StackLayout>
+</StackLayout>
